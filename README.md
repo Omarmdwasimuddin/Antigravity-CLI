@@ -2,7 +2,7 @@
 
 ### Windows (PowerShell):
 
-```
+```powershell
 irm https://antigravity.google/cli/install.ps1 | iex
 ```
 ---
@@ -20,3 +20,9 @@ agy
 ```
 ---
 
+### Prompt daw
+
+```
+Write a simple python script to fetch web page text
+```
+---
