@@ -20,7 +20,7 @@ agy
 ```
 ---
 
-### Prompt daw
+### Jekono Prompt daw
 
 ```
 Write a simple python script to fetch web page text
