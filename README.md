@@ -26,3 +26,10 @@ agy
 Write a simple python script to fetch web page text
 ```
 ---
+
+#### Note: agy command prompt deyar por error ashle powershell e daw
+
+```
+$env:Path += ";$env:LOCALAPPDATA\agy\bin"
+```
+---
